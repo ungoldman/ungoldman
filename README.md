@@ -1,6 +1,6 @@
 ### Hi, I'm Nate 👋
 
-- 🤷‍♂️ I've been writing open source javascript for 10 years! 😫
+- 🤷‍♂️ I've been writing open source javascript for 10 years!
 - 🔬 currently interested in climatography, epidemiology, maps, games
 - 😷 still isolating in pandemic year 3
 - 👐 previous open source work:
