@@ -20,3 +20,4 @@
 - 🎲 previous roles: design, front-end dev, back-end dev, lead dev, eng director
 - 🎓 educational background in design, interactive media, philosophy, linguistics
 - 🤙 I'm looking for work! Reach out if you've got an interesting project (no crypto/fintech please)
+- 📬 best way to contact me is email: ungoldman@gmail.com
