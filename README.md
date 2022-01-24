@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hi, I'm Nate 👋
 
-<!--
-**ungoldman/ungoldman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🤷‍♂️ I've been writing open source javascript for ten years!
+- 🔬 currently interested in climatography, epidemiology, maps, games
+- 😷 still isolating in pandemic year 2
+- 👐 previous open source work:
+  - 🔌 [hypermodules](https://github.com/hypermodules/) (co-creator, maintainer)
+  - 🚂 [choo](https://github.com/choojs/) (contributor, maintainer)
+  - 🌟 [standard](https://github.com/standard/) (maintainer)
+  - ❤️ [webtorrent](https://github.com/webtorrent/) (contributor)
+- 👨‍🏫 previous volunteering work:
+  - 🔰 [pdxnode](https://github.com/pdxnode) - pdx node.js user group (organizer, instructor)
+  - 🔰 [Code for Portland](https://github.com/CodeForPortland) - civic hacking group (v1 founder, 2014-2015)
+- 💼 previous day jobs:
+  - 📄 [scripto](https://www.scripto.live/) - real-time document collaboration
+  - ♥️ [zhealth](https://zhealth.io/etch/) - electron app for cardiologists
+  - 🗺 [esri](https://esri.com) - R&D, open source, developer docs
+  - 🐶 [fine](https://www.wearefine.com) - design & dev agency
+- 🎲 previous roles: design, front-end dev, back-end dev, lead dev, eng director
+- 🎓 educational background in design, interactive media, philosophy, & linguistics
+- 🤙 I'm looking for work! Reach out if you've got an interesting project (no crypto/fintech please)
