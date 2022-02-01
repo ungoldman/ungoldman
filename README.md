@@ -1,8 +1,6 @@
 ### Hi, I'm Nate 👋
 
-- 🤷‍♂️ I've been writing open source javascript for 10 years!
-- 🔬 currently interested in climatography, epidemiology, maps, games
-- 😷 still isolating in pandemic year 3
+- 🤷‍♂️ I've been writing open source javascript for over 10 years!
 - 👐 previous open source work:
   - 🔌 [hypermodules](https://github.com/hypermodules/) (co-creator, maintainer)
   - 🚂 [choo](https://github.com/choojs/) (contributor, maintainer)
@@ -17,7 +15,5 @@
   - ♥️ [zhealth](https://zhealth.io/) - [electron](https://github.com/electron) app for [cardiologists](https://zhealth.io/)
   - 🗺 [esri](https://esri.com) - [GIS](https://en.wikipedia.org/wiki/Geographic_information_system) & [geofencing](https://en.wikipedia.org/wiki/Geo-fence) R&D, [open source](https://github.com/esripdx), [developer docs](https://developers.arcgis.com/)
   - 🐶 [fine](https://www.wearefine.com) - design & dev agency
-- 🎲 previous roles: design, front-end dev, back-end dev, lead dev, eng director
-- 🎓 educational background in design, interactive media, philosophy, linguistics
 - 🤙 I'm looking for work! Reach out if you've got an interesting project (no crypto/fintech please)
 - 📬 best way to contact me is email: ungoldman@gmail.com
