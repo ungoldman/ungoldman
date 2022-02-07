@@ -1,6 +1,6 @@
 ### Hi, I'm Nate 👋
 
-- 🤷‍♂️ I've been writing open source javascript for over 10 years!
+- 🤷‍♂️ I've been writing open source software for over 10 years!
 - 👐 previous open source work:
   - 🔌 [hypermodules](https://github.com/hypermodules/) (co-creator, maintainer)
   - 🚂 [choo](https://github.com/choojs/) (contributor, maintainer)
