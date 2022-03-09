@@ -6,7 +6,6 @@
   - 🚂 [choo](https://github.com/choojs/) (contributor, maintainer)
   - 🌟 [standard](https://github.com/standard/) (early adopter, maintainer)
   - ❤️ [webtorrent](https://github.com/webtorrent/) (desktop app contributor)
-  - ⚡️ [electron](https://github.com/electron/) (early ecosystem contributor)
 - 👨‍🏫 previous volunteering work:
   - 🔰 [pdxnode](https://github.com/pdxnode) - [node.js](https://nodejs.org) user group (organizer, instructor)
   - 🔰 [Code for Portland](https://github.com/CodeForPortland) - [civic hacking](https://codeforamerica.org/news/what-is-civic-hacking/) group (v1 founder, 2014-2015)
