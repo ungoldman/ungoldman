@@ -8,7 +8,7 @@
   - ❤️ [webtorrent](https://github.com/webtorrent/) (desktop app contributor)
 - 👨‍🏫 previous volunteering work:
   - 🔰 [pdxnode](https://github.com/pdxnode) - [node.js](https://nodejs.org) user group (organizer, instructor)
-  - 🔰 [Code for Portland](https://github.com/CodeForPortland) - [civic hacking](https://codeforamerica.org/news/what-is-civic-hacking/) group (v1 founder, 2014-2015)
+  - 🌲 [Code for Portland](https://github.com/CodeForPortland) - [civic hacking](https://codeforamerica.org/news/what-is-civic-hacking/) group (v1 founder, 2014-2015)
 - 💼 previous day jobs:
   - 📄 [scripto](https://www.scripto.live/) - [real-time document collaboration](https://en.wikipedia.org/wiki/Operational_transformation) for [tv show writers](https://www.scripto.live/#testimonials)
   - ♥️ [zhealth](https://zhealth.io/) - [electron](https://github.com/electron) app for [cardiologists](https://zhealth.io/)
