@@ -4,7 +4,6 @@
 - 👐 previous open source work:
   - 🔌 [hypermodules](https://github.com/hypermodules/) (co-creator, maintainer)
   - 🚂 [choo](https://github.com/choojs/) (contributor, maintainer)
-  - 🌟 [standard](https://github.com/standard/) (early adopter, maintainer)
   - ❤️ [webtorrent](https://github.com/webtorrent/) (desktop app contributor)
 - 👨‍🏫 previous volunteering work:
   - 🔰 [pdxnode](https://github.com/pdxnode) - [node.js](https://nodejs.org) user group (organizer, instructor)
