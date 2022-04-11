@@ -4,7 +4,7 @@ Right now I'm fiddling with satellite imagery from [GOES](https://en.wikipedia.o
 
 - [satellites](https://ungoldman.github.io/satellites)
 - [goes-bg](https://github.com/ungoldman/goes-bg)
-- [eternal-recurrence](https://github.com/ungoldman/eternal-reccurence)
+- [eternal-recurrence](https://github.com/ungoldman/eternal-recurrence)
 
 ## About Me
 
