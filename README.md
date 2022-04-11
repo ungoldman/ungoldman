@@ -1,4 +1,12 @@
-### Hi, I'm Nate 👋
+# Hi, I'm Nate 👋
+
+Right now I'm fiddling with satellite imagery from [GOES](https://en.wikipedia.org/wiki/Geostationary_Operational_Environmental_Satellite) [16](https://en.wikipedia.org/wiki/GOES-16) & [17](https://en.wikipedia.org/wiki/GOES-17), experimenting with generative creative writing using GPT-3 via [OpenAI](https://openai.com/api/), and exploring the boundaries of automating work with [cron jobs](https://crontab.guru) using [github actions](https://docs.github.com/en/actions/using-workflows/events-that-trigger-workflows#schedule).
+
+- [satellites](https://ungoldman.github.io/satellites)
+- [goes-bg](https://github.com/ungoldman/goes-bg)
+- [eternal-recurrence](https://github.com/ungoldman/eternal-reccurence)
+
+## About Me
 
 - 🤷‍♂️ I've been writing open source software for over 10 years!
 - 👐 previous open source work:
@@ -13,5 +21,9 @@
   - ♥️ [zhealth](https://zhealth.io/) - [electron](https://github.com/electron) app for [cardiologists](https://zhealth.io/)
   - 🗺 [esri](https://esri.com) - [GIS](https://en.wikipedia.org/wiki/Geographic_information_system) & [geofencing](https://en.wikipedia.org/wiki/Geo-fence) R&D, [open source](https://github.com/esripdx), [developer docs](https://developers.arcgis.com/)
   - 🐶 [fine](https://www.wearefine.com) - design & dev agency
-- 🤙 I'm looking for work! Reach out if you've got an interesting project (no crypto/fintech please)
-- 📬 best way to contact me is email: ungoldman@gmail.com
+
+## Availability
+
+I'm looking for work! Reach out if you've got an interesting project (no crypto/fintech please).
+
+The best way to contact me is email: ungoldman@gmail.com
