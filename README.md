@@ -10,7 +10,7 @@ Right now I'm fiddling with satellite imagery from [GOES](https://en.wikipedia.o
 
 - 🤷‍♂️ I've been writing open source software for over 10 years!
 - 👐 previous open source work:
-  - 🔌 [hypermodules](https://github.com/hypermodules/) (co-creator, maintainer)
+  - 🔌 [hyperamp](https://github.com/hypermodules/hyperamp) (co-creator)
   - 🚂 [choo](https://github.com/choojs/) (contributor, maintainer)
   - ❤️ [webtorrent](https://github.com/webtorrent/) (desktop app contributor)
 - 👨‍🏫 previous volunteering work:
