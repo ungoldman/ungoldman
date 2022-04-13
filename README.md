@@ -1,10 +1,8 @@
-# Hi, I'm Nate 👋
+## Hi, I'm Nate 👋
 
-Right now I'm fiddling with satellite imagery from [GOES](https://en.wikipedia.org/wiki/Geostationary_Operational_Environmental_Satellite) [16](https://en.wikipedia.org/wiki/GOES-16) & [17](https://en.wikipedia.org/wiki/GOES-17), experimenting with generative creative writing via [OpenAI](https://openai.com/api/), and exploring the boundaries of automating work with [cron jobs](https://crontab.guru) using [github actions](https://docs.github.com/en/actions/using-workflows/events-that-trigger-workflows#schedule).
+Here's my cat.
 
-- [goes-bg](https://github.com/ungoldman/goes-bg)
-- [eternal-recurrence](https://github.com/ungoldman/eternal-recurrence)
-- [satellites](https://ungoldman.github.io/satellites)
+<img alt="cat" src="https://ungoldman.github.io/cat.jpg" width="256">
 
 ## About Me
 
@@ -24,6 +22,6 @@ Right now I'm fiddling with satellite imagery from [GOES](https://en.wikipedia.o
 
 ## Availability
 
-I'm looking for work! Reach out if you've got an interesting project (no crypto/fintech please).
+I'm looking for work! Reach out if you've got an interesting project.
 
 The best way to contact me is email: ungoldman@gmail.com
