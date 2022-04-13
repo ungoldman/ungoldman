@@ -1,10 +1,10 @@
 # Hi, I'm Nate 👋
 
-Right now I'm fiddling with satellite imagery from [GOES](https://en.wikipedia.org/wiki/Geostationary_Operational_Environmental_Satellite) [16](https://en.wikipedia.org/wiki/GOES-16) & [17](https://en.wikipedia.org/wiki/GOES-17), experimenting with generative creative writing using GPT-3 via [OpenAI](https://openai.com/api/), and exploring the boundaries of automating work with [cron jobs](https://crontab.guru) using [github actions](https://docs.github.com/en/actions/using-workflows/events-that-trigger-workflows#schedule).
+Right now I'm fiddling with satellite imagery from [GOES](https://en.wikipedia.org/wiki/Geostationary_Operational_Environmental_Satellite) [16](https://en.wikipedia.org/wiki/GOES-16) & [17](https://en.wikipedia.org/wiki/GOES-17), experimenting with generative creative writing via [OpenAI](https://openai.com/api/), and exploring the boundaries of automating work with [cron jobs](https://crontab.guru) using [github actions](https://docs.github.com/en/actions/using-workflows/events-that-trigger-workflows#schedule).
 
-- [satellites](https://ungoldman.github.io/satellites)
 - [goes-bg](https://github.com/ungoldman/goes-bg)
 - [eternal-recurrence](https://github.com/ungoldman/eternal-recurrence)
+- [satellites](https://ungoldman.github.io/satellites)
 
 ## About Me
 
