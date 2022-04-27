@@ -11,6 +11,9 @@ Here's my cat.
   - 🔌 [hyperamp](https://github.com/hypermodules/hyperamp) (co-creator)
   - 🚂 [choo](https://github.com/choojs/) (contributor, maintainer)
   - ❤️ [webtorrent](https://github.com/webtorrent/) (desktop app contributor)
+  - 👯 [friends](https://github.com/moose-team/friends) (co-creator, maintainer)
+  - 🌐 [koop](https://github.com/koopjs/koop-core) (contributor, maintainer)
+  - 📥 [geobin](https://github.com/geobin-io/geobin.io) (co-creator)
 - 👨‍🏫 previous volunteering work:
   - 🔰 [pdxnode](https://github.com/pdxnode) - [node.js](https://nodejs.org) user group (organizer, instructor)
   - 🌲 [Code for Portland](https://github.com/CodeForPortland) - [civic hacking](https://codeforamerica.org/news/what-is-civic-hacking/) group (v1 founder, 2014-2015)
