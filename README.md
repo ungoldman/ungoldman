@@ -8,7 +8,7 @@ Here's my cat.
 
 - 🤷‍♂️ I've been writing open source software for over 10 years!
 - 👐 Previous open source work:
-  - 🔌 **[Hyperamp](https://github.com/hypermodules/hyperamp) - open source desktop audio player** _(co-creator)_
+  - 🔌 **[Hyperamp](https://github.com/hypermodules/hyperamp) - minimal desktop audio player** _(co-creator)_
   - 🚂 **[Choo](https://github.com/choojs/choo#readme) - tiny frontend framework** _(contributor, maintainer)_
   - ❤️ **[WebTorrent Desktop](https://webtorrent.io/desktop/) - open source streaming torrent client** _(contributor)_
   - 👯 **[Friends](http://moose-team.github.io/friends/) - prototype p2p chat app** _(co-creator, maintainer)_
