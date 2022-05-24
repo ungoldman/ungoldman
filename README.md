@@ -18,9 +18,9 @@ Here's my cat.
   - 🔰 **[PDXNode](https://github.com/pdxnode) - [node.js](https://nodejs.org) user group** _(organizer, instructor)_
   - 🌲 **[Code for Portland](https://github.com/CodeForPortland) - [civic hacking](https://codeforamerica.org/news/what-is-civic-hacking/) group** _(v1 founder, 2014-2015)_
 - 💼 Previous day jobs:
-  - 📄 **[Scripto](https://www.scripto.live/) - [real-time document collaboration](https://en.wikipedia.org/wiki/Operational_transformation) for [tv show writers](https://www.scripto.live/#testimonials)** _(lead dev, dir of eng)_
-  - ♥️ **[ZHealth](https://zhealth.io/) - [electron](https://github.com/electron) app for [cardiologists](https://zhealth.io/etch/)** _(senior dev)_
-  - 🗺 **[ESRI](https://esri.com) - [GIS](https://en.wikipedia.org/wiki/Geographic_information_system) & [geofencing](https://en.wikipedia.org/wiki/Geo-fence) R&D, [open source](https://github.com/esripdx), [developer docs](https://developers.arcgis.com/)** _(web app dev)_
+  - 📺 **[Scripto](https://www.scripto.live/) - [real-time document collaboration](https://en.wikipedia.org/wiki/Operational_transformation) for [tv show writers](https://www.scripto.live/#testimonials)** _(lead dev, dir of eng)_
+  - 🏥 **[ZHealth](https://zhealth.io/) - [electron](https://github.com/electron) app for [cardiologists](https://zhealth.io/etch/)** _(senior dev)_
+  - 🌎 **[ESRI](https://esri.com) - [GIS](https://en.wikipedia.org/wiki/Geographic_information_system) & [geofencing](https://en.wikipedia.org/wiki/Geo-fence) R&D, [open source](https://github.com/esripdx), [developer docs](https://developers.arcgis.com/)** _(web app dev)_
   - 🐶 **[Fine](https://www.wearefine.com) - design agency** _(web dev)_
 
 ## Availability
