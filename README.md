@@ -6,7 +6,6 @@ Here's my cat.
 
 ## About Me
 
-- 🤷‍♂️ I've been writing open source software for over 10 years!
 - 👐 Previous open source work:
   - 🔌 **[Hyperamp](https://github.com/hypermodules/hyperamp) - minimal desktop audio player** _(co-creator)_
   - 🚂 **[Choo](https://github.com/choojs/choo#readme) - tiny frontend framework** _(contributor, maintainer)_
