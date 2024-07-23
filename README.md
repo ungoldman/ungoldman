@@ -2,6 +2,8 @@
 
 I'm a software engineer with a passion for the [open web](https://www.yearofopen.org/november-open-perspective-what-is-open-web/what-is-the-open-web-and-why-is-it-important-submitted-by-mark-surman-executive-director-of-the-mozilla-foundation/). I like making code and information organized and accessible. I strive to build simple maintainable systems that serve the public.
 
+Over the years I've worked for big companies like [Esri](https://www.esri.com/en-us/home) and small startups like [Scripto](https://www.scripto.live/). Right now I'm working on transit data at [Optibus](https://optibus.com/).
+
 ## Open source work
 
 I've done a lot of work for the open source community over the years!
