@@ -4,7 +4,7 @@ I'm a software engineer with a passion for the [open web](https://www.yearofopen
 
 ## Now
 
-- I live in Portland with my partner Amanda and our cat. 🐈‍⬛
+- I live in Portland, Oregon with my partner Amanda and our cat. 🐈‍⬛
 - I work on transit data at [Optibus](https://optibus.com/).
 - I hike, bike, cook, watch movies, read books, and eat lots of good food.
 
