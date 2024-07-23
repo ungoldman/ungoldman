@@ -6,7 +6,7 @@ I'm a software engineer with a passion for the [open web](https://www.yearofopen
 
 I've done a lot of work for the open source community over the years!
 
-Some open source projects I've contributed to:
+Some open source projects I've contributed to, directly or indirectly, according to Github:
 
 repo | ⭐️
 --- | ---
