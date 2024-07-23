@@ -11,7 +11,7 @@ I'm a software engineer with a passion for the [open web](https://www.yearofopen
 ## Then
 
 - 2010s - Worked in design and programming, spent time on open source projects, civic tech, and open data intiatives.
-- 2000s - Studied philosophy and linguistics, worked a lot of odd jobs, and spent most of my money on traveling to new places.
+- 2000s - Studied philosophy and linguistics, worked a lot of odd jobs, spent most of my money on travel.
 - 1990s - Played a lot of video games and made websites for fun. Sometimes forced to do homework.
 - 1980s - Focused primarily on legos and playing outside.
 
