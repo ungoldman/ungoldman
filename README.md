@@ -2,7 +2,18 @@
 
 I'm a software engineer with a passion for the [open web](https://www.yearofopen.org/november-open-perspective-what-is-open-web/what-is-the-open-web-and-why-is-it-important-submitted-by-mark-surman-executive-director-of-the-mozilla-foundation/). I like making code and information organized and accessible. I strive to build simple maintainable systems that serve the public.
 
-Over the years I've worked for big companies like [Esri](https://www.esri.com/en-us/home) and small startups like [Scripto](https://www.scripto.live/). Right now I'm working on transit data at [Optibus](https://optibus.com/).
+## Now
+
+- I live in Portland with my girlfiend Amanda and our cat. 🐈‍⬛
+- I work on transit data at [Optibus](https://optibus.com/).
+- I hike, bike, cook, watch movies, read books, and eat lots of good food.
+
+## Then
+
+- In the 2010s, I studied design and programming, then spent a lot of time working on open source node projects, civic tech, and open data intiatives.
+- In the 2000s, I studied philosophy and linguistics, worked a lot of odd jobs, and spent most of my money on travel.
+- In the 1990s, I played a lot of video games and made websites for fun. Sometimes I was forced to do homework.
+- In the 1980s, I focused primarily on legos and playing outside.
 
 ## Open source work
 
