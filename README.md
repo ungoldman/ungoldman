@@ -10,10 +10,10 @@ I'm a software engineer with a passion for the [open web](https://www.yearofopen
 
 ## Then
 
-- In the 2010s, I studied design and programming, and worked on open source projects, civic tech, and open data intiatives.
-- In the 2000s, I studied philosophy and linguistics, worked a lot of odd jobs, and spent most of my money on traveling to new places.
-- In the 1990s, I played a lot of video games and made websites for fun. Sometimes I was forced to do homework.
-- In the 1980s, I focused primarily on legos and playing outside.
+- 2010s - Worked in design and programming, spent time on open source projects, civic tech, and open data intiatives.
+- 2000s - Studied philosophy and linguistics, worked a lot of odd jobs, and spent most of my money on traveling to new places.
+- 1990s - Played a lot of video games and made websites for fun. Sometimes forced to do homework.
+- 1980s - Focused primarily on legos and playing outside.
 
 ## Open source work
 
