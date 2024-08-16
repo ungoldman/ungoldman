@@ -1,6 +1,6 @@
 ## Hi, I'm Nate 👋
 
-- 👨‍💻 Software Engineer based in Portland, OR
+- 👨‍💻 Developer based in Portland, OR
 - 📢 Advocate for [open web](https://www.yearofopen.org/november-open-perspective-what-is-open-web/what-is-the-open-web-and-why-is-it-important-submitted-by-mark-surman-executive-director-of-the-mozilla-foundation/) principles
 - 🕸️ [`Node.js`](https://nodejs.org/) enjoyer since 2010
 - 👴 Making websites since 1995
@@ -9,7 +9,7 @@
 
 ## Now
 
-- 🚌 working on transit data at [Optibus](https://optibus.com/)
+- 🚌 working on [transit data](https://gtfs.org/) at [Optibus](https://optibus.com/)
 - 🌲 hiking, biking, cooking, watching movies, reading books, eating lots of good food
 
 ## Then
