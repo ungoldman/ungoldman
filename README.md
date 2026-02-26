@@ -11,9 +11,7 @@ Currently working on the Platform team at [Optibus](https://www.optibus.com), wh
 
 ## Background
 
-15+ years working professionally as a software engineer, from agencies to startups, product to platform, across the stack from front to back. I keep coming back to the web platform itself.
-
-Open source packages I've personally authored have been downloaded over 4 million times in the past year (last checked February 2026).
+15+ years working professionally as a software engineer, from agencies to startups, product to platform, across the stack from front to back. Open source packages I've personally authored have been downloaded over 4 million times in the past year (last checked February 2026).
 
 Open web advocate. Erstwhile community organizer. Occasional writer.
 
