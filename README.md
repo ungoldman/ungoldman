@@ -20,5 +20,5 @@ Open web advocate. Erstwhile community organizer. Occasional writer.
 ## Reach me
 
 - 🌐 **Web:** [ungoldman.com](https://ungoldman.com)
-- 📫 **Email:** *ungoldman* at gmail com
+- 📫 **Email:** *ungoldman* <sub>*(gmail)*</sub>
 - 🦋 **Bluesky:** *@ungoldman.com*
