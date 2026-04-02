@@ -1,8 +1,12 @@
 ## Hi, I'm Nate 👋
 
-Senior software engineer based in Portland, Oregon. I've been building for the web since I was a kid. I care about open standards, small sharp tools, and software that lasts.
+I'm a software engineer based in Portland, Oregon. I've been building for the web since I was a kid. Things I care about:
 
-Currently working on the Platform team at [Optibus](https://www.optibus.com), where I help maintain and evolve GTFS pipelines and integrations. Before that, I led engineering at [Scripto](https://scripto.live), a real-time collaborative screenwriting platform used in production by The Daily Show, The Late Show, and others.
+- open standards
+- small sharp tools (linux philosophy)
+- making life easier for others
+
+I'm currently working on the Platform team at [Optibus](https://www.optibus.com), where I help maintain and evolve GTFS pipelines and integrations and work to improve standards and practices. Before that, I led engineering at [Scripto](https://scripto.live), a real-time collaborative screenwriting platform used in production by The Daily Show, The Late Show, and other major TV shows.
 
 ## Background
 
