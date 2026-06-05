@@ -1,8 +1,6 @@
-## Hi, I'm Nate 👋
+Hi, I'm Nate. I've been making websites since I was a kid.
 
-I've been building for the web since I was a kid.
-
-I'm on the Platform team at [Optibus](https://www.optibus.com), working on the infrastructure and integrations behind software that runs public transit. My coworkers are spread across four continents, so I work primarily async.
+I'm on the Platform team at [Optibus](https://www.optibus.com), working on the infrastructure and integrations behind software for planning and operating public transit. My coworkers are spread across four continents, so I work primarily async.
 
 Before Optibus, I led engineering at [Scripto](https://scripto.live), where I took a real-time collaborative screenwriting platform from prototype to production for The Daily Show, The Late Show, and other major TV shows.
 
