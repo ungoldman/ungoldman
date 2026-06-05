@@ -1,21 +1,17 @@
 ## Hi, I'm Nate 👋
 
-I'm a software engineer based in Portland, Oregon. I've been building for the web since I was a kid. Things I care about:
+I've been building for the web since I was a kid.
 
-- open standards
-- small sharp tools (linux philosophy)
-- making life easier for others
+I'm on the Platform team at [Optibus](https://www.optibus.com), working on the infrastructure and integrations behind software that runs public transit. My coworkers are spread across four continents, so I work primarily async.
 
-I'm currently working on the Platform team at [Optibus](https://www.optibus.com), where I help maintain and evolve GTFS pipelines and integrations and work to improve standards and practices. Before that, I led engineering at [Scripto](https://scripto.live), a real-time collaborative screenwriting platform used in production by The Daily Show, The Late Show, and other major TV shows.
+Before Optibus, I led engineering at [Scripto](https://scripto.live), where I took a real-time collaborative screenwriting platform from prototype to production for The Daily Show, The Late Show, and other major TV shows.
 
 ## Background
 
-15+ years working professionally as a software engineer, from agencies to startups, product to platform, across the stack from front to back. My open source code on [npm](https://www.npmjs.com/~ungoldman) has been downloaded over 4 million times in the past year.
+Building for the web professionally since 2009: freelance, agencies, enterprise R&D, and startups. Open source runs through all of it, and at least one job came directly from it. Mostly I'm a solo dev who's made [a lot of small things](https://www.npmjs.com/~ungoldman) over the years. A few of them are downloaded millions of times a year.
 
-Open web advocate. Erstwhile community organizer. Occasional writer.
-
-## Reach me
+## Elsewhere
 
 - 🌐 **Web:** [ungoldman.com](https://ungoldman.com)
 - 📫 **Email:** *ungoldman* <sub>*(gmail)*</sub>
-- 🦋 **Bluesky:** *@ungoldman.com*
+- 🦋 **Bluesky:** [@ungoldman.com](https://bsky.app/profile/ungoldman.com)
